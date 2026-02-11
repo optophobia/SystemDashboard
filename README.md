@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/badge/version-3.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![PowerShell](https://img.shields.io/badge/powershell-5.1+-blue)
+
 # System Dashboard Enterprise
 
 Enterprise Windows System Monitoring & Compliance Dashboard  
